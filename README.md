@@ -7,7 +7,7 @@
 </p>
 
 ## 🌐Socials
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)(https://www.facebook.com/profile.php?id=100034871136135) [![Telegram](https://img.shields.io/badge/Telegram-%23004C8C.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/hcongdev)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034871136135) [![Telegram](https://img.shields.io/badge/Telegram-%23004C8C.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/hcongdev)
 
 ## 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
